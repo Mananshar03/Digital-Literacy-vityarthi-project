@@ -11,14 +11,13 @@ Name: Manan Sharma
 
 Registration No: 25MIB10044
 
-Branch: Int M.Tech in AI and bioinformatics
+Branch: Btech in computer science engineering
 
 
-Year: 1st Year (2025 - 2030)
+Year: 1st Year (2025 - 2029)
 ## 🎨 Task 1: Infographic
 used Canva to create a visually appealing infographic that explains digital literacy concepts like email etiquette and safe internet practices and explaining digital literacy.
 
-🔗 **Links**
 
 ## Task 2 – Digital Portfolio
 Developed my professional presence and a profile status by creating profiles on GitHub, LinkedIn, and Kaggle.
